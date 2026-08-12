@@ -6,23 +6,64 @@ I enjoy building reusable tooling that standardizes how projects are created, ex
 
 ## What I'm building
 
-### [`moleculer-gen`](https://github.com/AssilemSDN/moleculer-gen)
+<table>
+<tr>
+<td width="40%">
 
-[![moleculer-gen](./assets/moleculer-gen.png)](https://github.com/AssilemSDN/moleculer-gen)
+<a href="https://github.com/AssilemSDN/moleculer-gen">
+  <img src="./assets/moleculer-gen.png" alt="moleculer-gen" width="100%">
+</a>
+
+</td>
+<td>
+
+### [`moleculer-gen`](https://github.com/AssilemSDN/moleculer-gen)
 
 A lightweight platform engineering CLI to scaffold, extend and maintain Moleculer.js microservice projects.
 
-### [`shapit`](https://github.com/AssilemSDN/shapit)
+**Moleculer.js · Docker Compose · MongoDB · NATS · Traefik · Prometheus**
 
-[![shapit](./assets/shapit.png)](https://github.com/AssilemSDN/shapit)
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+
+<a href="https://github.com/AssilemSDN/shapit">
+  <img src="./assets/shapit.png" alt="shapit" width="100%">
+</a>
+
+</td>
+<td>
+
+### [`shapit`](https://github.com/AssilemSDN/shapit)
 
 A TypeScript CLI for defining and validating the expected structure of a project.
 
+**TypeScript · Node.js · Developer tooling**
+
+</td>
+</tr>
+
+<tr>
+<td width="40%">
+
+<a href="https://github.com/AssilemSDN/react-vite-tailwind-starter">
+  <img src="./assets/react-vite-tailwind-starter.png" alt="React Vite Tailwind Starter" width="100%">
+</a>
+
+</td>
+<td>
+
 ### [`react-vite-tailwind-starter`](https://github.com/AssilemSDN/react-vite-tailwind-starter)
 
-[![react-vite-tailwind-starter](./assets/react-vite-tailwind-starter.png)](https://github.com/AssilemSDN/react-vite-tailwind-starter)
-
 A reusable frontend starter with a pragmatic set of conventions for building React applications.
+
+**React · TypeScript · Vite · Tailwind CSS · i18n**
+
+</td>
+</tr>
+</table>
 
 ## Toolbox
 
