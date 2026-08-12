@@ -6,38 +6,38 @@ I enjoy building reusable tooling that standardizes how projects are created, ex
 
 ## What I'm building
 
-### [Moleculer gen](https://github.com/AssilemSDN/moleculer-gen)
+### [`moleculer-gen`](https://github.com/AssilemSDN/moleculer-gen)
+
+[![moleculer-gen](./assets/moleculer-gen.png)](https://github.com/AssilemSDN/moleculer-gen)
 
 A lightweight platform engineering CLI to scaffold, extend and maintain Moleculer.js microservice projects.
 
-Docker Compose · Moleculer.js · MongoDB · NATS · Traefik · Prometheus
+### [`shapit`](https://github.com/AssilemSDN/shapit)
 
-### [Shapit](https://github.com/AssilemSDN/shapit)
+[![shapit](./assets/shapit.png)](https://github.com/AssilemSDN/shapit)
 
 A TypeScript CLI for defining and validating the expected structure of a project.
 
-TypeScript · Node.js · Developer tooling
+### [`react-vite-tailwind-starter`](https://github.com/AssilemSDN/react-vite-tailwind-starter)
 
-### [React Vite Tailwind CSS starter](https://github.com/AssilemSDN/react-vite-tailwind-starter)
+[![react-vite-tailwind-starter](./assets/react-vite-tailwind-starter.png)](https://github.com/AssilemSDN/react-vite-tailwind-starter)
 
-A reusable frontend starter with a pragmatic set of conventions for production-ready React projects.
-
-React · TypeScript · Vite · Tailwind CSS · i18n
+A reusable frontend starter with a pragmatic set of conventions for building React applications.
 
 ## Toolbox
 
-**Platform & Backend**  
+**Platform & Backend**
 Node.js · Docker · Docker Compose · Moleculer.js · Spring Boot
 
-**Languages**  
+**Languages**
 TypeScript · JavaScript · Java
 
-**Frontend**  
+**Frontend**
 React · Vite · Tailwind CSS
 
-**Infrastructure & Services**  
+**Infrastructure & Services**
 Traefik · Prometheus · NATS · MongoDB · Keycloak
 
 ## Currently
 
-Working mostly on developer tooling, project automation and improving `moleculer-gen`.
+Working mostly on developer tooling, project automation, and improving [`moleculer-gen`](https://github.com/AssilemSDN/moleculer-gen).
