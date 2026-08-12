@@ -1,8 +1,21 @@
 # Hi, I'm Mélissa 🐡
 
-**Developer tooling · Platform engineering · Distributed systems**
-
-I enjoy building reusable tooling that standardizes how projects are created, extended and maintained, with a particular interest in microservices and developer experience.
+<div>
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNno2bXNvdXU2ZjB1NWthbjZwamdscG0xOG54ODBxcHk0ZWo1amFtaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7eVp9MHlNI90c/200.gif"
+    width="105"
+    align="right"
+    alt="Porcupinefish"
+  >
+  <p>
+    <strong>Developer tooling · Platform engineering · Distributed systems</strong>
+  </p>
+  <p>
+    I enjoy building reusable tooling that standardizes how projects are created,
+    extended and maintained, with a particular interest in microservices and
+    developer experience.
+  </p>
+</div>
 
 ## What I'm building
 
@@ -82,3 +95,15 @@ Traefik · Prometheus · NATS · MongoDB · Keycloak
 ## Currently
 
 Working mostly on developer tooling, project automation, and improving [`moleculer-gen`](https://github.com/AssilemSDN/moleculer-gen).
+
+----
+
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/192ac71c257475741b9020ce7f7a40da/tumblr_nz40e8glJ61uccnfoo4_400.gif" width="200" alt="Porcupinefish">
+</p>
+
+<p align="center">
+  <i>🐡 Can you reach THE FINALS?</i>
+</p>
+
